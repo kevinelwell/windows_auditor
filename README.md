@@ -7,12 +7,12 @@ SYNOPSIS
        ./Windows_Auditor.ps1 > Report.txt
 
 DESCRIPTION
-	Windows Auditor is the small owershell script which runs and create an handy output
-	which state whether server is complaince or not. You can change the parameter of
-	the scipt and set it according to your MBSS(Minimum baseline Security standerd)
-	it will generate two files audit and if STDIO is redirecred to report.txt and it will gives
+	Windows Auditor is the small PowerShell script which runs and create an handy output
+	which state whether server is complaint or not. You can change the parameter of
+	the scipt and set it according to your MBSS(Minimum baseline Security standard)
+	it will generate two files audit and if STDIO is redirected to report.txt and it will gives
 	you check based CIS high scored points from "CIS_Microsoft_Windows_Server_2012_Benchmark_v1.0.0"   
-	Edits forks and commets are welcome
+	Edits forks and commits are welcome
 
        If no option is specified, script will give you output on STDIO.
 
